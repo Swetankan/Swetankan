@@ -13,7 +13,7 @@
   <a href="https://github.com/swetankan/github-readme-stats"><img alt="Top Languages used by me" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetankan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFmeHcxbXd0dWJtZGZpcXljZmFpc280bXZpcWpyOTRrYWl0MTFnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="250"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
