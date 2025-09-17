@@ -1,6 +1,6 @@
 ![greetingGIF](https://github.com/Rupal-Dhurde/Rupal-Dhurde/assets/138601399/6c1ed653-fd1b-4c90-a554-f625b3111606)
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&pause=1000&color=07F700&background=FF272700&center=true&vCenter=true&width=435&lines=I+am+Swetankan+Sinha+;Undergraduate+Researcher;Exploring+AI+and+Machine+Learning;Love+Web+Development" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&pause=1000&color=07F700&background=FF272700&center=true&vCenter=true&width=435&lines=I+am+Swetankan+Sinha+;Undergraduate+Researcher;Exploring+Artificial Intelligence+and+Machine+Learning;Love+Web+Development" alt="Typing SVG" /></a>
 </div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=swetankan&label=Profile%20views&color=0e75b6&style=flat" alt="swetankan" /> </p>
