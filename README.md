@@ -8,7 +8,7 @@
 
 <h2><i> Hey there! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2></i>
 <br/>
-    <a href="https://github.com/swetankan/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=swetankan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/swetankan/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=swetankaxn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/devharsh2k4/github-readme-stats"><img alt="Top Languages used by me" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetankan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
