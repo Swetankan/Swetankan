@@ -1,3 +1,4 @@
+![greetingGIF](https://github.com/Rupal-Dhurde/Rupal-Dhurde/assets/138601399/6c1ed653-fd1b-4c90-a554-f625b3111606)
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&pause=1000&color=07F700&background=FF272700&center=true&vCenter=true&width=435&lines=I+am+Swetankan+Sinha+;Undergraduate+Researcher;Exploring+AI+and+Machine+Learning;Love+Web+Development" alt="Typing SVG" /></a>
 </div>
@@ -26,7 +27,9 @@
 
 ### ⚙️ &nbsp;Tech Stack
 
-
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
 
 <div align='center'>
 
@@ -50,5 +53,6 @@ Miscellaneous       | <img width="40px" src="https://user-images.githubuserconte
 &nbsp; <a href="mailto:swetankan.official@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> 
 
 </p>
+
 
 ⭐️ From [Swetankan](https://github.com/swetankan)
